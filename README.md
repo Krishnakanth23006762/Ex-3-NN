@@ -106,6 +106,9 @@ predict(w1,w2,test)
 
 ### Output:
 ![image](https://github.com/user-attachments/assets/77a47b77-9b83-4c59-83a2-f557939c2840)
+
+
+
 ![image](https://github.com/user-attachments/assets/a423041c-a9a2-451f-9742-01e974c5f6b5)
 
 ### Result:
